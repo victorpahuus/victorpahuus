@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorpahuus
 - 👀 I’m interested in learning more about Webhosting.
-- 🌱 I’m currently learning Docker.
+- 🌱 I’m currently learning PHP.
 - 🌎My webshop: https://fastgames.dk
 - 🌎Personal website: https://victorpahuus.dk
 
