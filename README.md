@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorpahuus
-- 👀 I’m interested in learning more about Webhosting.
-- 🌱 I’m currently learning PHP.
+- 👀 I'm always looking to expand my skillset and explore the latest technologies, currently focused on networking and BGP.
+- 🌱 I’m currently learning PHP, Javascript, BGP.
 - 🌎My webshop: https://fastgames.dk
 - 🌎Personal website: https://victorpahuus.dk
 
