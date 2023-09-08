@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorpahuus
 - 👀 I'm always looking to expand my skillset and explore the latest technologies, currently focused on networking and BGP.
-- 🌱 I’m currently learning PHP, Javascript, BGP.
+- 🌱 I’m currently learning Vue, PHP, BGP.
 - 🌎My webshop: https://fastgames.dk
 - 🌎Personal website: https://victorpahuus.dk
 
