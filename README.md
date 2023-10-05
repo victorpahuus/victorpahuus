@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Vue, PHP, BGP.
 - 🌎My webshop: [Fastgames.dk](https://www.fastgames.dk)
 
-- 🌎Personal website: [Victorpahuus.dk.dk](https://victorpahuus.dk)
+- 🌎Personal website: [Victorpahuus.dk](https://victorpahuus.dk)
 
 <!---
 victorpahuus/victorpahuus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
